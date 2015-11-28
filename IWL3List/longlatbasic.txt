@@ -1,0 +1,13 @@
+Tresure	Address	Lat	Long
+new NamedLocation("Frazier History Museum", new LatLng (38.257848	-85.764523))
+Louisville Glassworks	815 W Market St, Louisville, KY 40202	38.256315	-85.764541
+Louisville Slugger Museum	800 W Main St, Louisville, KY 40202	38.257083	-85.764005
+Kentucky Science Center	727 W Main St, Louisville, KY 40202	38.257660	-85.762665
+Kentucky Museum of Arts and Crafts(KMAC)	715 W Main St, Louisville, KY 40202	38.257419	-85.762104
+21 C Museum Hotel	700 W Main St, Louisville, KY 40202	38.256782	-85.761776
+Muhammad Ali Center	144 N 6th St, Louisville, KY 40202	38.258223	-85.759859
+Evan Williams Bourbon Experience	528 W Main St, Louisville, KY 40202	38.256668	-85.759491
+The Speed	2035 S 3rd St, Louisville, KY 40208	38.218311	-85.761471
+
+
+VARCHAR VARCHAR 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="wrap_content"
+        tools:text="Frazier History Museum"
+        android:textSize="15sp"
+        android:id="@+id/location"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="wrap_content"
+        tools:text="829 W Main St, Louisville, KY 40202"
+        android:textSize="12sp"
+        android:id="@+id/address"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content"
+        tools:text="0"
+        android:textSize="12sp"
+        android:id="@+id/score"
+        />
+
+    <CheckBox
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content"
+        tools:text="Done"
+        android:textSize="12sp"
+        android:id="@+id/checkBox"/>
+</LinearLayout>
